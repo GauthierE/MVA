@@ -1,2 +1,4 @@
 # MVA
-Assignments from the MVA Master (ENS Paris-Saclay)
+
+Some assignments done during MVA (*Mathématiques, Vision, Apprentissage*) Master at ENS Paris-Saclay.
+

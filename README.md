@@ -6,9 +6,17 @@ This repository contains some assignments from the courses I completed during MV
 
 | Course  | Assignments | Instructor(s) |
 | ------------- | ------------- | ------------- |
-| Convex Optimization  | Content Cell  | A. d'Aspremont |
-| Object Recognition and Computer Vision  | Content Cell  | G. Varol, I. Laptev, J. Ponce, C. Schmid, J. Sivic, M. Aubry |
 | Computational Optimal Transport  | Content Cell  | G. Peyré |
+| Convex Optimization  | Content Cell  | A. d'Aspremont |
 | Foundations of Deep Learning | Content Cell  | F. Malgouyes, E. Pauwels, S. Gerchinovitz, N. Thome |
+| Object Recognition and Computer Vision  | Content Cell  | G. Varol, I. Laptev, J. Ponce, C. Schmid, J. Sivic, M. Aubry |
+| Topological Data Analysis | Content Cell  | J. Tierny, F.Chazal |
 
 ## Second Semester
+
+| Course  | Assignments | Instructor(s) |
+| ------------- | ------------- | ------------- |
+| Generative Models for Images  | Content Cell  | B. Galerne, A. Leclaire |
+| Graphs in Machine Learning  | Content Cell  | D. Calandriello, M.Valko |
+| Reinforcement Learning  | Content Cell  | E. Kaufmann, E. Rachelson |
+| Sequential Learning | Content Cell  | P. Gaillard, E. Boursier |

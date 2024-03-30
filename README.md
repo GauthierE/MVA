@@ -6,7 +6,7 @@ This repository contains some assignments from the courses I completed during MV
 
 | Course  | Assignments |
 | ------------- | ------------- |
-| [Computational Optimal Transport](computational-optimal-tarnsport/)  | * [Optimal Transport with Linear Programming](computational-optimal-tarnsport/optimaltransp_1_linprog.ipynb) <br> * [Entropic Regularization of Optimal Transport](computational-optimal-tarnsport/optimaltransp_5_entropic.ipynb) | 
+| [Computational Optimal Transport](computational-optimal-transport/)  | * [Optimal Transport with Linear Programming](computational-optimal-transport/optimaltransp_1_linprog.ipynb) <br> * [Entropic Regularization of Optimal Transport](computational-optimal-transport/optimaltransp_5_entropic.ipynb) | 
 | Convex Optimization  | Content Cell  | 
 | Foundations of Deep Learning | Content Cell  |
 | Object Recognition and Computer Vision  | Content Cell  | 

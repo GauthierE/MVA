@@ -5,7 +5,7 @@ This repository contains some assignments from the courses I completed during MV
 ## First Semester
 
 | Course  | Assignments | Instructor(s) |
-| ------------- | ------------- | ------------- |
+| ------------- | ----------------------- | ------------- |
 | [Computational Optimal Transport](computational-optimal-tarnsport/)  | * [Optimal Transport with Linear Programming](computational-optimal-tarnsport/optimaltransp_1_linprog.ipynb) <br> * [Entropic Regularization of Optimal Transport](computational-optimal-tarnsport/optimaltransp_5_entropic.ipynb) | G. Peyré |
 | Convex Optimization  | Content Cell  | A. d'Aspremont |
 | Foundations of Deep Learning | Content Cell  | F. Malgouyes, E. Pauwels, S. Gerchinovitz, N. Thome |

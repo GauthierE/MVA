@@ -6,7 +6,7 @@ This repository contains some assignments from the courses I completed during MV
 
 | Course  | Assignments | Instructor(s) |
 | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
+| Convex Optimization  | Content Cell  | A. d'Aspremont  |
+| Object Recognition and Computer Vision  | Content Cell  | G. Varol, I. Laptev, J. Ponce, C. Schmid, J. Sivic, M. Aubry  |
 
 ## Second Semester

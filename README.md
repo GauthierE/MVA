@@ -4,9 +4,9 @@ This repository contains some assignments from the courses I completed during MV
 
 ## First Semester
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Course  | Assignments | Instructor(s) |
+| ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
 
 ## Second Semester

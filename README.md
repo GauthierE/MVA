@@ -4,7 +4,7 @@ This repository contains some assignments from the courses I completed during MV
 
 ## First Semester
 
-| Course  | Assignments | Instructor(s) |
+| Course  | Assignments |
 | ------------- | ------------- |
 | [Computational Optimal Transport](computational-optimal-tarnsport/)  | * [Optimal Transport with Linear Programming](computational-optimal-tarnsport/optimaltransp_1_linprog.ipynb) <br> * [Entropic Regularization of Optimal Transport](computational-optimal-tarnsport/optimaltransp_5_entropic.ipynb) | 
 | Convex Optimization  | Content Cell  | 
@@ -14,9 +14,9 @@ This repository contains some assignments from the courses I completed during MV
 
 ## Second Semester
 
-| Course  | Assignments | Instructor(s) |
-| ------------- | ------------- | ------------- |
-| Generative Models for Images  | Content Cell  | 
+| Course  | Assignments |
+| ------------- | ------------- | 
+| Generative Models for Images  | Content Cell | 
 | Graphs in Machine Learning  | Content Cell  | 
 | Reinforcement Learning  | Content Cell  | 
 | Sequential Learning | Content Cell  | 

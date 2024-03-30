@@ -19,4 +19,4 @@ This repository contains some assignments from the courses I completed during MV
 | [Generative Models for Images](generative-modeling/)  | Texture Synthesis <br> [GAN and WGAN learning with a synthetic dataset](generative-modeling/2_generative_adversarial_networks.ipynb) <br> DCGAN learning for MNIST <br> Hierarchical VAE <br> Inverse Problems <br> [Sampling and conditional sampling of a pretrained DDPM model](generative-modeling/6_diffusion_model_sampling.ipynb) <br> PnP image deblurring with pre-learned denoisers <br> PnP image deblurring with gradient-step denoiser | 
 | Graphs in Machine Learning  | Content Cell  | 
 | Reinforcement Learning  | Content Cell  | 
-| [Sequential Learning](sequential-learning/) | [Home assignment](sequential-learning/submission.pdf)  | 
+| [Sequential Learning](sequential-learning/) | [Bernoulli bandits, Game theory](sequential-learning/submission.pdf)  | 

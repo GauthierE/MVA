@@ -18,5 +18,5 @@ This repository contains some assignments from the courses I completed during MV
 | ------------- | ------------- | 
 | [Generative Models for Images](generative-modeling/)  | Texture Synthesis <br> [GAN and WGAN learning with a synthetic dataset](generative-modeling/2_generative_adversarial_networks.ipynb) <br> DCGAN learning for MNIST <br> Hierarchical VAE <br> Inverse Problems <br> [Sampling and conditional sampling of a pretrained DDPM model](generative-modeling/6_diffusion_model_sampling.ipynb) <br> PnP image deblurring with pre-learned denoisers <br> PnP image deblurring with gradient-step denoiser | 
 | Graphs in Machine Learning  | Spectral Clustering <br> Semi-Supervised Learning <br> Graph Neural Networks with JAX | 
-| [Reinforcement Learning](reinforcement-learning)  | [Clinical data based optimal STI strategies for HIV](reinforcement-learning/Clinical data based optimal STI strategies for HIV) <br> Introduction to bandits <br> UCB-VI | 
+| [Reinforcement Learning](reinforcement-learning)  | [Clinical data based optimal STI strategies for HIV](reinforcement-learning/Clinical data based optimal STI strategies for HIV) <br> Introduction to bandits <br> [Mountain Car: UCB-VI, Q-learning](reinforcement-learning/Mountain Car) | 
 | [Sequential Learning](sequential-learning/) | [Bernoulli bandits, Game theory](sequential-learning/submission.pdf)  | 

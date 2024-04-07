@@ -7,7 +7,7 @@ This repository contains some assignments from the courses I completed during MV
 | Course  | Assignments |
 | ------------- | ------------- |
 | [Computational Optimal Transport](computational-optimal-transport/)  | [Optimal Transport with Linear Programming](computational-optimal-transport/optimaltransp_1_linprog.ipynb) <br> [Entropic Regularization of Optimal Transport](computational-optimal-transport/optimaltransp_5_entropic.ipynb) | 
-| Convex Optimization  | Convexity <br> Duality <br> LASSO  | 
+| [Convex Optimization](convex-optimization)  | [Convexity](convex-optimization/1_convexity) <br> [Duality](convex-optimization/2_duality) <br> [LASSO](convex-optimization/3_lasso)  | 
 | [Foundations of Deep Learning](foundations-of-dl/) | [Bayesian Linear Regression](foundations-of-dl/1_Bayesian_Linear_Regression.ipynb) <br> [Approximate Inference](foundations-of-dl/2_Approximate_Inference.ipynb) <br> [Uncertainty Applications](foundations-of-dl/3_Uncertainty_Applications.ipynb) |
 | Object Recognition and Computer Vision  | Instance-level Recognition <br> Neural Networks <br> Image classification on classifysketch dataset | 
 | [Topological Data Analysis](topological-data-analysis) | [Wasserstein Stability for Persistence Diagrams](topological-data-analysis/presentation.pdf)  | 

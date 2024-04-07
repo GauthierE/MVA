@@ -10,7 +10,7 @@ This repository contains some assignments from the courses I completed during MV
 | Convex Optimization  | Convexity <br> Duality <br> LASSO  | 
 | [Foundations of Deep Learning](foundations-of-dl/) | [Bayesian Linear Regression](foundations-of-dl/1_Bayesian_Linear_Regression.ipynb) <br> [Approximate Inference](foundations-of-dl/2_Approximate_Inference.ipynb) <br> [Uncertainty Applications](foundations-of-dl/3_Uncertainty_Applications.ipynb) |
 | Object Recognition and Computer Vision  | Instance-level Recognition <br> Neural Networks <br> Image classification on classifysketch dataset | 
-| Topological Data Analysis | Content Cell  | 
+| [Topological Data Analysis](topological-data-analysis) | [Wasserstein Stability for Persistence Diagrams](topological-data-analysis/presentation.pdf)  | 
 
 ## Second Semester
 
